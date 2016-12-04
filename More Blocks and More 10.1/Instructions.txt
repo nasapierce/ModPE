@@ -1,0 +1,3 @@
+Put genfolder in /games/com.mojang/
+
+Or in the directory the world files are stored.
