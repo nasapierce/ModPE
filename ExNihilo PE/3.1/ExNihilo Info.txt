@@ -1,0 +1,28 @@
+Ex Nihilo on PC Made By Erasmus_Crowley
+Ex Nihilo PE ported by Darkserver
+Permissions can be found on forums
+
+Version 1: initial release
+-Barrels : Oak, spruce, birch, jungle, stone
+-Stone barrels & jungle barrels are NOT functional but are craftable.
+-Oak Sieve
+-Dust, iron gravel, gold gravel, iron dust, gold dust, broken iron, broken gold, crushed iron & gold
+- all hammers : dont have damages
+-crook : only function is breaking leaves & infected leaves
+- making of compost in barrels : instant for now...
+- silk worms, silk mesh, and infected leaves
+***Note: Ex Nihilo PE is in the early stages of development,  things will change.
+
+Version 2
+- made all mods into one mod
+- bug fixes
+Version 2.1
+- bug fix (back to 3 .js files)
+- been away for 4 days. Not much progress.
+
+Bugs:
+- Using a stack (64) of dirt/gravel/dust/sand on the sieve wont take away from the stack.
+- Rarity doesn't apply in this version.
+- a lot of items & blocks are not modded in
+
+<=> Darkserver <=>
